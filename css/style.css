@@ -1,0 +1,15 @@
+fieldset {
+    margin: 0 auto;
+    width: 180px;
+}
+ul {
+    padding-left: 0;
+}
+li {
+    list-style-type: none;
+    width: 180px;
+    margin: 5px 0;
+}
+input {
+    margin: 5px 0;
+}
